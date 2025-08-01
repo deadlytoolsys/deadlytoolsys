@@ -16,6 +16,15 @@ I'm a .NET developer with over a decade of backend experience. Now evolving into
 - 🤖 Exploring LLMs to enhance dev + security workflows
 
 ---
+### 🔌 What I Do Best
+
+- Design and develop **REST APIs** for secure enterprise data flows  
+- Integrate complex external services like **OpenAI**, **Stripe**, and **Google Cloud**  
+- Automate deployments and system tasks with **Bamboo**, **Ansible**, and **scripted macros**  
+- Build robust web applications using **ASP.NET**, **C#**, **MVC**, and **SQL Server**  
+- Participate in **Agile teams**, delivering full-stack solutions across the SDLC
+- Customisation of GP Microsoft Dynamics forms
+---
 
 
 ### 📌 Featured Projects
