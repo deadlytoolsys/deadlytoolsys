@@ -35,6 +35,13 @@ I'm a .NET developer with over a decade of backend experience. Now evolving into
 - `MiniProjects-Series` – C# utilities and quick builds (coming soon)
 
 ---
+### 🛠️ Tech Stack Highlights
+
+```text
+ASP.NET | C# | SQL Server | MVC | ADO.NET | REST APIs | OpenAI | Google Cloud | Stripe API
+Automation: Bamboo | Ansible | Scripted Macros | Splunk | Veracode | MITRE ATT&CK
+Tools: Visual Studio | Git | TFS | JIRA | dotPeek | Crystal Reports
+---
 
 ### 🚀 Goals Right Now
 
