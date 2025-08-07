@@ -30,7 +30,6 @@ I'm a .NET developer with over a decade of backend experience. Now evolving into
 ### 📌 Featured Projects
 
 - [`PortfolioApp-DotNet`](https://github.com/deadlytoolsys/PortfolioApp-DotNet) – Auth-enabled ASP.NET Core Web API with clean architecture  
-- [`SOC-Playbook`](https://github.com/deadlytoolsys/SOC-Playbook) – Labs, writeups, and detection templates  
 - [`SecureOps-Playground`](https://github.com/deadlytoolsys/SecureOps-Playground) – 
 - `MiniProjects-Series` – C# utilities and quick builds (coming soon)
 
