@@ -44,7 +44,7 @@ Tools: Visual Studio | Git | TFS | JIRA | dotPeek | Crystal Reports
 
 ### 🚀 Goals Right Now
 
-- ✅ Get hired as an Application Developer
+- ✅ Getting hired 
 - 🛡️ Level up as a Blue Teamer
 - 🧠 Integrate AI into code, detection, and systems
 
